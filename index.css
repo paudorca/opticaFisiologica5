@@ -1,0 +1,63 @@
+#titulo {
+    text-align: center;
+}
+
+#exterior {
+    margin-left: 28px;
+}
+
+h1 {
+    padding-left: 125px;
+    padding-right: 125px;
+}
+
+#izquierda {
+    background-color: black;
+}
+
+h4 {
+    margin: 15vh;
+}
+
+div #numeros {
+    display: flex;
+    justify-content: center;
+}
+
+div #columnas {
+    margin-left: 200px;
+    width: 933px;
+}
+
+#derecha {
+    border: black;
+}
+
+#interior {
+    height: 300px;
+}
+
+#columnas {
+    height: 200px;
+}
+
+#primero {
+    background-color: black;
+}
+
+#botones {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+}
+
+#contador {
+    display: flex;
+    justify-content: center;
+}
+
+.boton button {
+    padding: 0.5rem;
+    width: 50px;
+    height: 50px;
+}
